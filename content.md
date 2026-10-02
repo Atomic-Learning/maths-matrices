@@ -13,7 +13,7 @@ Here, $A_{11}$ is the element in the first row and first column, $A_{12}$ is the
 
 ## Notation
 
-When a variable represents a matrix, it is common to use an uppercase letter, such as $A$, $B$, or $C$.
+When a variable represents a matrix, it is common to use an uppercase letter, such as $A$ or $M$.
 
 ## Bracket conventions
 
