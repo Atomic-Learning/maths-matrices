@@ -1,6 +1,6 @@
-A matrix (plural "matrices") is a two-dimensional arrangement of values, typically organized in rows and columns. Matrices are often used to represent data or to describe transformations. Each value in a matrix is called an element, and the position of an element is specified by its row and column indices.
+A matrix (plural "matrices") is a two-dimensional arrangement of values, typically organized in rows and columns. Matrices are often used to represent data or to describe transformations. 
 
-For example, a $2 \times 3$ (read as "2 by 3") matrix has 2 rows and 3 columns:
+Each value in a matrix is called an element, and the position of an element is specified by its row and column indices.For example, a $2 \times 3$ (read as "2 by 3") matrix has 2 rows and 3 columns:
 
 $$
 A = \begin{bmatrix}
