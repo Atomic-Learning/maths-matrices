@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Maths: Matrices",
+    "slug": "maths-matrices",
+    "description": "A Introduction to matrices as a two dimensional arrangement of values. Describes the structure and notation of matrix elements.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "maths",
+        "linear-algebra"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
     ],
     "related": [
-        "",
-        ""
+        "maths-vectors"
     ]
 }
